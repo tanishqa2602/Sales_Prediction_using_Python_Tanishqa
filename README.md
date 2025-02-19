@@ -49,11 +49,3 @@ python three_code_alpha.py
 - Evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²) provide insights into model performance.
 - The scatter plot visualizes the relationship between actual and predicted prices.
 
-## Contribution
-Feel free to fork this repository, report issues, or submit pull requests to enhance the project.
-
-## License
-This project is licensed under the MIT License.
-
----
-Created by [Your Name]
